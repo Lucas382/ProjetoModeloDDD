@@ -14,7 +14,8 @@ This is a Web Project made in .Net6 using DDD (Domain Driven Design), Entity Fra
 - DDD - E-Commerce
 - [ ] Decorator 
 - [x] Clean Architecture 
-- [ ] Observer Pattern
+- [ ] Observer Pattern    
+- [ ] [CQRS]
 
 ## Principles
 - SOLID 
@@ -31,7 +32,6 @@ This is a Web Project made in .Net6 using DDD (Domain Driven Design), Entity Fra
     - [ ]  IConfiguration
     - [x]  AutoMapper
     - [ ]  Partial View 
-    - [ ]  [CQRS]
     - [ ]  Command 
             
 - ASP NET CORE / EF Core
