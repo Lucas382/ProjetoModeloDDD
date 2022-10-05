@@ -1,6 +1,6 @@
 # ProjetoModeloDDD
 
-This is a Web Project made in .Net6 using DDD (Domain Driven Design), Entity Framework, AutoMapper and Dependency Injection design approach that focuses on my personal learning of design patterns like Clean Arch, CQRS and any other technologies/philosophies/patterns like Decorators , SOLID, WebAPI etc. that I will discover in the process of learning these.
+This is a Web Project made in .Net6 using DDD (Domain Driven Design), Entity Framework, AutoMapper and Dependency Injection design approach that focuses on my personal learning of design patterns like Clean Arch, CQRS and any other technologies/philosophies/patterns like Decorators , SOLID, WebAPI etc.
 
 ## Project Patterns and Architecture.
 - DDD
@@ -32,7 +32,7 @@ This is a Web Project made in .Net6 using DDD (Domain Driven Design), Entity Fra
     - [x]  AutoMapper
     - [ ]  Partial View 
     - [ ]  [CQRS]
-       [ ] - Command 
+    - [ ]  Command 
             
 - ASP NET CORE / EF Core
     - [x]  Migrations
