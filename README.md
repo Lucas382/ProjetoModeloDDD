@@ -38,5 +38,7 @@ This is a Web Project made in .Net6 using DDD (Domain Driven Design), Entity Fra
     - [x]  Migrations
     - [x]  Data Annotations
     - [x]  MVC
+    - [x]  Repositories Pattern
+    - [ ]  Unit Of Work
     - [ ]  Authentication
     - [ ]  WebAPI 
