@@ -16,7 +16,8 @@ This is a Web Project made in .Net6 using DDD (Domain Driven Design), Entity Fra
 - [x] Clean Architecture 
 - [ ] Observer Pattern    
 - [ ] [CQRS]
-
+    - [ ]  Command 
+    - [ ]  Handler
 ## Principles
 - SOLID 
     - [x]  SRP - Single Responsability Principle
@@ -32,7 +33,6 @@ This is a Web Project made in .Net6 using DDD (Domain Driven Design), Entity Fra
     - [ ]  IConfiguration
     - [x]  AutoMapper
     - [ ]  Partial View 
-    - [ ]  Command 
             
 - ASP NET CORE / EF Core
     - [x]  Migrations
