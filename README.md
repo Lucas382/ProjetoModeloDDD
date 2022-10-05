@@ -34,7 +34,8 @@ This project is a .Net6 project using DDD (Domain Driven Design), Entity Framewo
     - [ ]  [CQRS]
        [ ] - Command 
             
-- ASP NET CORE
+- ASP NET CORE / EF Core
+    - [x]  Migrations
     - [x]  Data Annotations
     - [x]  MVC
     - [ ]  Authentication
